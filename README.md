@@ -65,7 +65,4 @@ This project implements a **simple desktop voice assistant** named Jarvis. It us
 
 ---
 
-## 🚀 Quick Start
-
-1. **Install Requirements:**
 
